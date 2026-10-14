@@ -1,0 +1,1 @@
+# nish-subtitle-editor
